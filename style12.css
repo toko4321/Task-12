@@ -14,8 +14,8 @@ img{
     margin-top: 170px;
 }
 div.one{
-    margin-top: 43px;
-    margin-left: 46px;
+    top: 43px;
+    left: 46px;
     width: 289px;
     height: 54px;
     font-size: 36px;
@@ -26,8 +26,8 @@ div.one{
 div.two{
     width: 177px;
     height: 41px;
-    margin-top: 93px;
-    margin-left: 46px;
+    top: 93px;
+    left: 46px;
     font-size: 24px;
     position: absolute;
     font-family: 'DM Serif Display', serif;
