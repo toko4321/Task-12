@@ -12,6 +12,7 @@ img{
     width: 231px;
     margin-left: 67px;
     margin-top: 170px;
+    position: absolute;
 }
 div.one{
     top: 43px;
