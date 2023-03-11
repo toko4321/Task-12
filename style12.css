@@ -3,8 +3,8 @@
     height: 420px;
     background-color: #FAF4EF;
     border-radius: 0px 0px 0px 50px;
-    margin-left: 620px;
-    margin-top: 250px;
+    left: 620px;
+    top: 250px;
     position: relative;
 }
 img{
